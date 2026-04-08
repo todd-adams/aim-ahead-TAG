@@ -1,0 +1,26 @@
+Variable,Summary
+Demographics,
+"Age, mean Â± SD",45.8 ± 22.3
+Sex,
+  FEMALE,232071 (52.0%)
+  MALE,213978 (48.0%)
+  No matching concept,95 (0.0%)
+Race,
+  White,262938 (58.9%)
+  Other / Unknown,110406 (24.7%)
+  Asian,40345 (9.0%)
+  Black or African American,32448 (7.3%)
+  American Indian or Alaska Native,6 (0.0%)
+  Native Hawaiian or Pacific Islander,1 (0.0%)
+Ethnicity,
+  White Non-Hispanic,262938 (58.9%)
+  Unknown,110330 (24.7%)
+  Asian Non-Hispanic,40345 (9.0%)
+  Black or African American Non-Hispanic,32448 (7.3%)
+  Other Non-Hispanic,76 (0.0%)
+  American Indian or Alaska Native Non-Hispanic,6 (0.0%)
+  Native Hawaiian or Other Pacific Islander Non-Hispanic,1 (0.0%)
+Outcome,
+Recorded mortality,9498 (2.1%)
+Clinical burden,
+"Comorbidity count, mean Â± SD",0.1 ± 0.4
