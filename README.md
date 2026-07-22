@@ -107,8 +107,8 @@ Due to data use agreements and privacy considerations, the raw dataset is not in
 This project was completed by:
 
 - Todd Adams, Ph.D. student, The University of Arizona
-- Maya Foster, Ph.D. student, Yale University
-- Allison Ihle, Ph.D., UT Health San Antonio
+- Maya Foster, Ph.D., Yale University
+- Allison Ihle, Ph.D., University of Texas
 - Taylor Krajewski. Ph.D., Duke University
 - Carlo Lutz, MD, Ph.D., Albert Einstein College of Medicine
 - Dmitry Shcherbakov, Ph.D, Medical University of South Carolina
